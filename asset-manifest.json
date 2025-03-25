@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SudheerNarra7/SudheerPortfolio.git/static/css/main.81b57cf6.css",
-    "main.js": "/SudheerNarra7/SudheerPortfolio.git/static/js/main.3c501f8c.js",
-    "static/js/453.1407b060.chunk.js": "/SudheerNarra7/SudheerPortfolio.git/static/js/453.1407b060.chunk.js",
-    "static/media/hero-bg.jpeg": "/SudheerNarra7/SudheerPortfolio.git/static/media/hero-bg.927f4e3252914c1113d6.jpeg",
-    "index.html": "/SudheerNarra7/SudheerPortfolio.git/index.html",
-    "main.81b57cf6.css.map": "/SudheerNarra7/SudheerPortfolio.git/static/css/main.81b57cf6.css.map",
-    "main.3c501f8c.js.map": "/SudheerNarra7/SudheerPortfolio.git/static/js/main.3c501f8c.js.map",
-    "453.1407b060.chunk.js.map": "/SudheerNarra7/SudheerPortfolio.git/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/SudheerNarra7/SudheerPortfolio/static/css/main.7f96001e.css",
+    "main.js": "/SudheerNarra7/SudheerPortfolio/static/js/main.d9b6f02f.js",
+    "static/js/453.1407b060.chunk.js": "/SudheerNarra7/SudheerPortfolio/static/js/453.1407b060.chunk.js",
+    "static/media/hero-bg.jpeg": "/SudheerNarra7/SudheerPortfolio/static/media/hero-bg.927f4e3252914c1113d6.jpeg",
+    "index.html": "/SudheerNarra7/SudheerPortfolio/index.html",
+    "main.7f96001e.css.map": "/SudheerNarra7/SudheerPortfolio/static/css/main.7f96001e.css.map",
+    "main.d9b6f02f.js.map": "/SudheerNarra7/SudheerPortfolio/static/js/main.d9b6f02f.js.map",
+    "453.1407b060.chunk.js.map": "/SudheerNarra7/SudheerPortfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81b57cf6.css",
-    "static/js/main.3c501f8c.js"
+    "static/css/main.7f96001e.css",
+    "static/js/main.d9b6f02f.js"
   ]
 }
