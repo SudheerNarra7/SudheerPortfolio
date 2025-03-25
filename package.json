@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/SudheerNarra7/SudheerPortfolio",
+  "homepage": "https://sudheernarra7.github.io/SudheerPortfolio/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
