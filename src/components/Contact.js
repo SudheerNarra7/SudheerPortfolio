@@ -10,11 +10,11 @@ const Contact = () => {
           <div className="contact-info">
             <div className="contact-item">
               <i className="fas fa-envelope"></i>
-              <p>nsudheeded3qedwer@gmail.com</p>
+              <p>nsudheerreddy700@gmail.com</p>
             </div>
             <div className="contact-item">
               <i className="fas fa-phone"></i>
-              <p>(94eee0) 33rr3-44</p>
+              <p>(940-704-7708)-44</p>
             </div>
             <div className="contact-item">
               <i className="fab fa-github"></i>
