@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/SudheerPortfolio/static/css/main.9ccf2f0d.css",
-    "main.js": "/SudheerPortfolio/static/js/main.0d48328e.js",
+    "main.js": "/SudheerPortfolio/static/js/main.88bf4556.js",
     "static/js/453.1407b060.chunk.js": "/SudheerPortfolio/static/js/453.1407b060.chunk.js",
     "static/media/hero-bg.jpeg": "/SudheerPortfolio/static/media/hero-bg.927f4e3252914c1113d6.jpeg",
     "index.html": "/SudheerPortfolio/index.html",
     "main.9ccf2f0d.css.map": "/SudheerPortfolio/static/css/main.9ccf2f0d.css.map",
-    "main.0d48328e.js.map": "/SudheerPortfolio/static/js/main.0d48328e.js.map",
+    "main.88bf4556.js.map": "/SudheerPortfolio/static/js/main.88bf4556.js.map",
     "453.1407b060.chunk.js.map": "/SudheerPortfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ccf2f0d.css",
-    "static/js/main.0d48328e.js"
+    "static/js/main.88bf4556.js"
   ]
 }
